@@ -15,13 +15,12 @@ Create and change configuration on config.json.
   "every": "@hourly"
 }
 ```
-For every property.\
+#### Configure property. 
 |Value | Description|
 |------|------------|
 |@hourly| Every hour|
-|daily | Every day midnight|
+|@daily | Every day midnight|
 |@every 0h0m1s|Custom <hour>h<minutes>m<second>s|
-|------|---------|
 ## Installation
 
 Make sure go was installed on your computer.
